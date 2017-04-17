@@ -40,7 +40,7 @@ The material theme is defined as:
 
 > 注意：材料主题仅在 Android 5.0（API 级别 21）及更高版本中提供。 v7 支持内容库为一些小组件提供附带 Material Design 风格的主题，同时为配色工具定制提供支持。[^]
 
-### <a id="color-footer"></a>Appendix  [↩](#color)
+### <a id="color-footer"></a>Appendix  [:leftwards_arrow_with_hook:](#color):arrow_double_up:
 
 |item|名称|
 |:---:|:---:|
