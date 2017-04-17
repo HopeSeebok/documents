@@ -14,7 +14,7 @@ The new material theme provides:
 
 You can customize the look of the material theme according to your brand identity with a color palette you control. You can tint the action bar and the status bar using theme attributes.
 
-你可使用你所控制的配色工具，按照你的品牌形象定制材料主题的外观。 你可使用主题属性为操作栏和状态栏着色。（下图既调色板颜色默认命名 <a id="color">[详见附录](#color-footer)</a>）
+你可使用你所控制的配色工具，按照你的品牌形象定制材料主题的外观。 你可使用主题属性为操作栏和状态栏着色。（下图既调色板颜色默认命名 <a id="color"></a>[详见附录](#color-footer)）
 
 <img src="http://oo8db6bor.bkt.clouddn.com/ThemeColors.png" width="220dp"/>
 
@@ -40,7 +40,7 @@ The material theme is defined as:
 
 > 注意：材料主题仅在 Android 5.0（API 级别 21）及更高版本中提供。 v7 支持内容库为一些小组件提供附带 Material Design 风格的主题，同时为配色工具定制提供支持。[^]
 
-### <span id="color-footer">Appendix</span>  [↩](#color)
+### <a id="color-footer"></a>Appendix  [↩](#color)
 
 |item|名称|
 |:---:|:---:|
