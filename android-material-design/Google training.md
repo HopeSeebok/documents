@@ -18,7 +18,7 @@ The new material theme provides:
 
 You can customize the look of the material theme according to your brand identity with a color palette you control. You can tint the action bar and the status bar using theme attributes.
 
-您可使用您所控制的配色工具，按照您的品牌形象定制材料主题的外观。 您可使用主题属性为操作栏和状态栏着色。（下图既调色板颜色默认命名）[详见附录一](###appendix)
+您可使用您所控制的配色工具，按照您的品牌形象定制材料主题的外观。 您可使用主题属性为操作栏和状态栏着色。（下图既调色板颜色默认命名）[详见附录一](#appendix)
 
 
 
@@ -49,9 +49,9 @@ The material theme is defined as:
 
 
 
-###Appendix
+#Appendix
 
-|aaaa|aaaa|
+|item|名称|
 |:---:|:---:|
 |colorPrimary|主颜色|
 |colorAccent|强调色|
